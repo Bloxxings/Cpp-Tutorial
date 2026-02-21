@@ -1,4 +1,4 @@
-# C-Tutorial
+# C++ Tutorial
 
 I learned the basics of C++ using this tutorial 
 www.youtube.com/watch?v=ZzaPdXTrSb8&pp=ygUMYysrIHR1dG9yaWFs
